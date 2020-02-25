@@ -1,2 +1,2 @@
 # NewspaperSite
-A sample Newspaper site built for a friend with static content.
+A static Newspaper site sample built for a friend.
